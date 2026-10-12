@@ -30,14 +30,14 @@
     {
       "source": "check.cjs",
       "url": "source/check.cjs.txt",
-      "bytes": 23757,
-      "sha256": "c594e7b4d0bb9465e067dd3494ec2a06399102a69152bcce9ca928b29cea2d5e"
+      "bytes": 23749,
+      "sha256": "be443e14bfe6f71f57234b4c5eb9383433d414810eff71b63229cfb243452379"
     },
     {
       "source": "serve.cjs",
       "url": "source/serve.cjs.txt",
-      "bytes": 1191,
-      "sha256": "cf3f3ed7d17b2937151c6f4f8facd48bfd8716c754102f8b22006807377cd627"
+      "bytes": 1190,
+      "sha256": "fac5ccde168406b81271bca599f32318478d40b1a7f81df72d493a7fd3c4b416"
     }
   ]
 }

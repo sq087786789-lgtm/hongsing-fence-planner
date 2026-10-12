@@ -1,10 +1,10 @@
-# Hongsing Fence Planner
+# 上慶圍籬配置工作室
 
-Static interactive fence planning tool. Read the complete source and tests to reproduce it.
+可拖拉配置圍籬、計算配件並輸出參照線稿。重建時請讀取完整原始程式、規格與測試。
 
-- [AI entry](ai/AI_README.md)
-- [Specification](ai/SPECIFICATION.md)
-- [Rebuild prompt](ai/AI_REBUILD_PROMPT.md)
-- [Complete application source](ai/source/index.html.txt)
-- [Tests](ai/source/check.cjs.txt)
-- [SHA-256 manifest](ai/manifest.json)
+- [AI 接續說明](ai/AI_README.md)
+- [功能與計算規格](ai/SPECIFICATION.md)
+- [AI 重建要求](ai/AI_REBUILD_PROMPT.md)
+- [完整網頁原始程式](ai/source/index.html.txt)
+- [回歸測試程式](ai/source/check.cjs.txt)
+- [檔案校驗清單](ai/manifest.json)

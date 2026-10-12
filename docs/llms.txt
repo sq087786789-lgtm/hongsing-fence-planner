@@ -1,0 +1,10 @@
+# Hongsing Fence Planner
+
+Static interactive fence planning tool. Read the complete source and tests to reproduce it.
+
+- [AI entry](ai/AI_README.md)
+- [Specification](ai/SPECIFICATION.md)
+- [Rebuild prompt](ai/AI_REBUILD_PROMPT.md)
+- [Complete application source](ai/source/index.html.txt)
+- [Tests](ai/source/check.cjs.txt)
+- [SHA-256 manifest](ai/manifest.json)

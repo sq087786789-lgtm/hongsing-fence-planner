@@ -1,0 +1,43 @@
+{
+  "name": "上慶圍籬配置工作室",
+  "formatVersion": 1,
+  "sourceOfTruth": "source/index.html.txt",
+  "files": [
+    {
+      "source": "AI_README.md",
+      "url": "AI_README.md",
+      "bytes": 1257,
+      "sha256": "812a149203ddf1786a54fde48a4c7f3cd698298358ec1bbe5711bfda6561f7b0"
+    },
+    {
+      "source": "SPECIFICATION.md",
+      "url": "SPECIFICATION.md",
+      "bytes": 4859,
+      "sha256": "3ed11f74ec5fadce3f5404f2997a059ab809f77075a0b13abb3959b8fd1cfe45"
+    },
+    {
+      "source": "AI_REBUILD_PROMPT.md",
+      "url": "AI_REBUILD_PROMPT.md",
+      "bytes": 1054,
+      "sha256": "97e8b3ca4381a2dccd95fdd9bf0a3627b88118d10062eda127f6db93ea5578de"
+    },
+    {
+      "source": "dist/index.html",
+      "url": "source/index.html.txt",
+      "bytes": 83839,
+      "sha256": "12c45c176491e30b2a60997b03dff7014a7f44007001f57d97d36b295e8c7a37"
+    },
+    {
+      "source": "check.cjs",
+      "url": "source/check.cjs.txt",
+      "bytes": 23757,
+      "sha256": "c594e7b4d0bb9465e067dd3494ec2a06399102a69152bcce9ca928b29cea2d5e"
+    },
+    {
+      "source": "serve.cjs",
+      "url": "source/serve.cjs.txt",
+      "bytes": 1191,
+      "sha256": "cf3f3ed7d17b2937151c6f4f8facd48bfd8716c754102f8b22006807377cd627"
+    }
+  ]
+}

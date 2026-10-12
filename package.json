@@ -1,0 +1,12 @@
+{
+  "name": "hongsing-fence-planner",
+  "version": "1.0.0",
+  "private": true,
+  "description": "上慶圍籬配置工作室：靜態工具與可供 AI 重建的完整原始碼",
+  "scripts": {
+    "test": "node check.cjs",
+    "start": "node serve.cjs",
+    "build": "node scripts/build-public.cjs"
+  },
+  "engines": {"node": ">=22"}
+}

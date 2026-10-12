@@ -51,3 +51,11 @@ node scripts/build-public.cjs 會建立 docs/ 發布目錄及 AI 讀取入口。
 ## 資料界線
 
 倉庫只發布程式、規格和測試案例。請勿提交實際客戶的設計檔、密碼、帳號憑證或私密訂單。GitHub Pages 是靜態網站，不提供跨裝置自動同步。
+
+## 修改後同步 GitHub
+
+在此專案請 AI 修改時，依 AGENTS.md 完成測試、更新 docs/ 與 AI 原始碼，再同步到同一 GitHub 倉庫，並確認 Pages 部署。
+
+可先執行 npm run prepare-sync 檢查發布內容；具備 GitHub 寫入登入後，使用 npm run sync -- "修改摘要" 完成提交與推送。未配置登入時腳本會明確停止，由已登入的 GitHub 網頁編輯器發布，不會把未上線的修改誤報為成功。
+
+這個流程在收到修改要求後執行，不是背景監控電腦上的所有檔案。

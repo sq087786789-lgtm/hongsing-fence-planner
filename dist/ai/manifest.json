@@ -24,8 +24,8 @@
     {
       "source": "dist/index.html",
       "url": "source/index.html.txt",
-      "bytes": 99520,
-      "sha256": "4a32fe418ef98bf3bf99599f6ec3f33f30b3ca627c80fe44be76efbcf9bd3dde"
+      "bytes": 99777,
+      "sha256": "6711bf32fe3fc3d240551deaed37fbc00c363f0945ed8e3206e2bee3c29dfef2"
     },
     {
       "source": "check.cjs",

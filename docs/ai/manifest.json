@@ -12,8 +12,8 @@
     {
       "source": "SPECIFICATION.md",
       "url": "SPECIFICATION.md",
-      "bytes": 5416,
-      "sha256": "254230d9003bfd076e54499da3d1064a415c4530debd96239d0071513a2f7851"
+      "bytes": 6124,
+      "sha256": "fa7fc6193c1ab23bd51235755e7848cd8f7ad2115031f179bf13211c883b37f1"
     },
     {
       "source": "AI_REBUILD_PROMPT.md",
@@ -24,14 +24,14 @@
     {
       "source": "dist/index.html",
       "url": "source/index.html.txt",
-      "bytes": 86895,
-      "sha256": "9126b5cb54870074ebfda545165afa2c1178b0d266394ec7a350081ae1eb5b72"
+      "bytes": 90368,
+      "sha256": "0e22ecdfc4264c6767476ad1fe26b3f50e11778045e529ce1debe1e88b868069"
     },
     {
       "source": "check.cjs",
       "url": "source/check.cjs.txt",
-      "bytes": 28848,
-      "sha256": "a078b428c3fcc1ffd94dae7648b1727348181cc4ff068a185f2fb292f593446c"
+      "bytes": 32253,
+      "sha256": "8fe3fa0a5a7bf7ba97dc75cc1dc5a6ea12e40a5162ead8b4be81110dc57d40e5"
     },
     {
       "source": "serve.cjs",
